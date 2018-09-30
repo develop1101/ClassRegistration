@@ -1,0 +1,10 @@
+C:\Users\mimih\Downloads\CIST 2342\Lab\Lab2\ClassRegistration\ClassRegistration\obj\Debug\ClassRegistration.csprojAssemblyReference.cache
+C:\Users\mimih\Downloads\CIST 2342\Lab\Lab2\ClassRegistration\ClassRegistration\obj\Debug\ClassRegistration.Form1.resources
+C:\Users\mimih\Downloads\CIST 2342\Lab\Lab2\ClassRegistration\ClassRegistration\obj\Debug\ClassRegistration.Properties.Resources.resources
+C:\Users\mimih\Downloads\CIST 2342\Lab\Lab2\ClassRegistration\ClassRegistration\obj\Debug\ClassRegistration.csproj.GenerateResource.cache
+C:\Users\mimih\Downloads\CIST 2342\Lab\Lab2\ClassRegistration\ClassRegistration\obj\Debug\ClassRegistration.csproj.CoreCompileInputs.cache
+C:\Users\mimih\Downloads\CIST 2342\Lab\Lab2\ClassRegistration\ClassRegistration\bin\Debug\ClassRegistration.exe.config
+C:\Users\mimih\Downloads\CIST 2342\Lab\Lab2\ClassRegistration\ClassRegistration\bin\Debug\ClassRegistration.exe
+C:\Users\mimih\Downloads\CIST 2342\Lab\Lab2\ClassRegistration\ClassRegistration\bin\Debug\ClassRegistration.pdb
+C:\Users\mimih\Downloads\CIST 2342\Lab\Lab2\ClassRegistration\ClassRegistration\obj\Debug\ClassRegistration.exe
+C:\Users\mimih\Downloads\CIST 2342\Lab\Lab2\ClassRegistration\ClassRegistration\obj\Debug\ClassRegistration.pdb
